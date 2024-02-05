@@ -16,8 +16,9 @@ public class Dealer {
         this.shuffleAlgorithm = new RandomShuffle(); // Создаем экземпляр RandomShuffle
     }
 
-    public Card dealCard() {
+    //public dealCard() {
         // Вернуть и удалить карту из колоды
-    }
+       // return ;
+   // }
 }
 
